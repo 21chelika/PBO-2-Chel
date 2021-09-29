@@ -1,0 +1,13 @@
+
+public class Latihan1 {
+
+    public static void main(String[] args) {
+        int Uang = 50000;
+        int Harga = 55000;
+      
+     String output = (Uang>Harga)?"Membeli":"Tidak Membeli";
+     
+     System.out.println(output);
+    }
+    
+}
